@@ -41,7 +41,6 @@ This repository contains selected open-source components from a capstone project
 - **Web Scraping**: `requests`, `BeautifulSoup`
 - **Excel Processing**: `openpyxl`
 - **Version Control**: GitHub API, branching
-- **Collaboration**: Microsoft Teams webhook notifications
 - **Data Source**: [City of Windsor Open Data Portal](https://opendata.citywindsor.ca/), 13 months' APC Datasets
 
 
